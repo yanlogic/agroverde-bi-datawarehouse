@@ -1,0 +1,4 @@
+*.mdf
+*.ndf
+*.ldf
+.ipynb_checkpoints/
